@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SocioBoardAccountEpiryMailSender.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_User_User" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/User.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_AdminUserDetails_AdminUserDetails" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/AdminUserDetails.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_TwitterAccount_TwitterAccount" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/TwitterAccount.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_FacebookAccount_FacebookAccount" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/FacebookAccount.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_InboxMessages_InboxMessages" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/InboxMessages.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_TwitterDirectMessages_TwitterDirectMessages" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/TwitterDirectMessages.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_GroupReports_GroupReports" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/GroupReports.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_ScheduledMessage_ScheduledMessage" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/ScheduledMessage.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_Team_Team" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/Team.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_Groups_Groups" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/Groups.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_TeamMemberProfile_TeamMemberProfile" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/TeamMemberProfile.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_InstagramAccount_InstagramAccount" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/InstagramAccount.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_FacebookReport_FacebookReport" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/FacebookReport.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_FacebookGroupReport_FacebookGroupReport" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/Services/FacebookGroupReport.asmx</Value>
+    </Setting>
+    <Setting Name="SocioBoardAccountEpiryMailSender_Api_InstagramReports_InstagramReports" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:6361/services/InstagramReports.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
